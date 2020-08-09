@@ -1,10 +1,11 @@
-= Data Sources
+# Projects with ourworldindata COVID-19 data 
+## Data Sources
 
 This folder contains data published on
 https://ourworldindata.org/coronavirus
 https://ourworldindata.org/grapher/new-covid-deaths-per-million
 
-= Project: Can country stringency decrease the COVID-19 deaths?  
+## Project: Can country stringency decrease the COVID-19 deaths?  
 
 This project is inspired by the video "When might the lockdown End?" by Dr. Andy Thompson (RheumInfo) published in April, 2020 [https://youtu.be/h_EfQdoB5Ro]
 
